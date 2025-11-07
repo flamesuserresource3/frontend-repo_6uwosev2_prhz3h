@@ -17,7 +17,7 @@ export default function Hero() {
               transition={{ duration: 0.6 }}
               className="text-4xl sm:text-5xl font-extrabold tracking-tight text-slate-900"
             >
-              RZF Academy
+              Kursus Komputer RZF Academy
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 20 }}
@@ -25,7 +25,7 @@ export default function Hero() {
               transition={{ duration: 0.7, delay: 0.1 }}
               className="mt-4 text-lg text-slate-700 max-w-xl"
             >
-              Platform kursus modern untuk SD, SMP, SMA, dan Umum. Tingkatkan prestasi dengan kurikulum adaptif, mentor berpengalaman, dan pengalaman belajar interaktif.
+              Kuasai keterampilan kerja paling dibutuhkan: Microsoft Word, Excel, PowerPoint, Pemrograman dasar, dan Desain Canva. Belajar praktik dengan mentor berpengalaman dan kurikulum berbasis proyek.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -42,13 +42,13 @@ export default function Hero() {
             </motion.div>
             <div className="mt-8 flex items-center gap-6 text-sm text-slate-600">
               <div>
-                <span className="font-semibold text-slate-900">10k+</span> Alumni
+                <span className="font-semibold text-slate-900">5k+</span> Lulusan Berhasil
               </div>
               <div>
-                <span className="font-semibold text-slate-900">4.9/5</span> Rating Kepuasan
+                <span className="font-semibold text-slate-900">95%</span> Skill Terpakai di Kerja
               </div>
               <div>
-                Garansi Uang Kembali 7 Hari
+                Sertifikat Kompetensi
               </div>
             </div>
           </div>
@@ -60,8 +60,8 @@ export default function Hero() {
           >
             <div className="aspect-[4/3] rounded-2xl border border-slate-200 bg-white/80 backdrop-blur shadow-xl overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1600&auto=format&fit=crop"
-                alt="Belajar interaktif"
+                src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1600&auto=format&fit=crop"
+                alt="Belajar komputer"
                 className="w-full h-full object-cover"
               />
             </div>
